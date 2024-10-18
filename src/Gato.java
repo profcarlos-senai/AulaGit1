@@ -14,4 +14,16 @@ public class Gato {
     public void setCor(String cor) {
         this.cor = cor;
     }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public int getPatas() {
+        return patas;
+    }
+
+    public String getCor() {
+        return cor;
+    }
 }
